@@ -1,2 +1,2 @@
-# ecobag
-Easy co-evolution between black hole and galaxy host
+# ecogas
+Easy co-evolution between galaxy host and supermassive black holes
